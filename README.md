@@ -12,5 +12,5 @@ This programm use turtle all methods like:
 
 And also you can repeat commands with repeat() method like:
 - repeat(number);
-    -- repeat block
+    - repeat block
 - endrepeat();
